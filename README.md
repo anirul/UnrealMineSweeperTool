@@ -1,5 +1,7 @@
 # Mine Sweeper as a Plugin in Unreal
 
+You can find the [original question here](https://github.com/anirul/UnrealMineSweeperTool/raw/main/Minesweeper_Unreal_Advanced_4.pdf).
+
 This is what the title suggest a plugin for unreal to have mine sweeper (the
 game). It was made using version 4.27.2 version of the engine, but it should
 work if you don't go too far back. As soon as you launch it you will have to
